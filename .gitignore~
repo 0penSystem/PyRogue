@@ -6,6 +6,13 @@ __pycache__/
 # C extensions
 *.so
 
+# libtcod
+libtcodpy.py
+libtcodpy.pyc
+
+#stuff from sublime
+*.sublime-*
+
 # Distribution / packaging
 .Python
 env/
